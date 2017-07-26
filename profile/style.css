@@ -1,0 +1,79 @@
+/* Here goes your CSS */
+body {
+  background-color: #E3E8F8;
+  font-family: 'Raleway', sans-serif;
+  color: #3E588F;
+  text-align: center;
+}
+
+.container {
+ width:600px;
+ margin: 0 auto;
+}
+.my_banner {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    opacity: 0.1;
+}
+
+.btn-red {
+    background-color: #03051E;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 4px;}
+
+h1 {
+  font-size: 40px;
+  margin: 0;
+}
+
+h2 {
+  letter-spacing: 3.5px;
+    margin: 20px;
+}
+
+h3 {
+  font-size: 20px;
+  font-family: 'Playfair Display', serif;
+}
+
+a {
+  color: #203562;
+  text-decoration: none;
+}
+
+a:hover {
+  opacity: 0.5;
+}
+
+.logo {
+  height: 50px;
+}
+
+.profile_pic{
+ border-radius: 40px;
+}
+
+.list_inline {
+  padding-left: 0px;
+  text-align: center;
+}
+
+.list_inline li {
+  display: inline-block;
+  padding-right: 20px;
+}
+
+.header {
+  position: relative;
+/*  z-index: 2;*/
+}
+
+
+
+
+/* Here goes your CSS */
